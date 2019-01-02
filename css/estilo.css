@@ -1,0 +1,43 @@
+body {
+  padding-top: 40px;
+  background-image: url("../img/dark-paths.png");
+  background-repeat: repeat;
+}
+
+.contenedor {
+  width: 90%;
+  margin: 5px auto;
+}
+
+.borde-inferior {
+  border: none;
+  border-bottom: 2px solid #fff;
+}
+
+.menu {
+  background-color: #182748;
+  color: #fff;
+}
+
+.fondo2 {
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+.fondo2 img {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.subir {
+  text-decoration: none;
+  color: #fff;
+}
+.subir:hover {
+  color: #fff;
+}
+
+.icono {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=estilo.css.map */
